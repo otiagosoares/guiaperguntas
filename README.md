@@ -8,6 +8,6 @@ Forum de perguntas e respostas anônimas desenvolvido com as tecnologias:
   - ejs
   - sequelize
 
-## deploy manual na DigitalOcean
+## Deploy manual na DigitalOcean
 
 Acesse o projeto [aqui](http://64.227.11.252/)
