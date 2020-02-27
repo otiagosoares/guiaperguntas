@@ -1,0 +1,14 @@
+body{
+    background: #eceff1 
+}
+.logo-top{
+    text-decoration: none;
+    color: #fff;
+}
+.logo-top:hover{
+    text-decoration: none;
+    color: #eceff3;
+}
+.card-form-pergunta{
+    margin-top: 5vh
+}
